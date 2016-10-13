@@ -3,5 +3,5 @@
 
 | 名称 | 目录|
 |:-----|-----|
-| TensorFlow | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Keras)|
-| Keras | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/TensorFlow)|
+| TensorFlow | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/TensorFlow)|
+| Keras | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Keras)|
