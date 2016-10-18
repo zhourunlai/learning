@@ -31,7 +31,8 @@
 8. 安装更上层的[深度学习库 Keras](http://keras.io/)，更加快速、熟练的编写出各种种类的神经网络模型。
 
 >tips:
-Fllow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Aymeric Damien(Google AI团队)、Aymeric Damien(Facebook AI实验室)、Yoshua Bengio(蒙特利尔大学终身教授) 、Andrew Ng(斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握最新动态和进展
+Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Aymeric Damien(Google AI团队)、Aymeric Damien(Facebook AI实验室)、Yoshua Bengio(蒙特利尔大学终身教授) 、Andrew Ng(斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握最新动态和进展
+
 
 
 
