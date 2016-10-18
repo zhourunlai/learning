@@ -1,4 +1,68 @@
-# Keras examples directory
+# Keras 例子
+addition_rnn.py 用RNN拟合加法运算
+
+antirectifier.py 为Keras编写自定义图层
+
+babi_memnn.py 在[bAbI](https://research.facebook.com/research/babi/)数据集上训练记忆网络以进行阅读理解
+
+babi_rnn.py 在bAbI数据集上训练两分支递归网络以进行阅读理解
+
+cifar10_cnn.py 在CIFAR10小图像数据集上训练简单CNN
+
+conv_filter_visualization.py 通过梯度上升可视化VGG16的过滤器
+
+deep_dream.py 为Keras编写深梦
+
+image_ocr.py 训练卷积、循环和CTC logloss函数以执行OCR识别
+
+imdb_bidirectional_lstm.py 在IMDB情绪分类任务上训练双向LSTM
+
+imdb_cnn.py 使用Convolution1D进行文本分类
+
+imdb_cnn_lstm.py 在IMDB情绪分类任务上训练卷积、循环网络
+
+imdb_fasttext.py 在IMDB情绪分类任务上训练FastText模型
+
+imdb_lstm.py 在IMDB情绪分类任务上训练LSTM
+
+lstm_benchmark.py 在IMDB情绪分类任务上比较不同的LSTM实现
+
+lstm_text_generation.py 从尼采的书中生成文本
+
+mnist_cnn.py 在MNIST数据集上训练简单的ConvNet
+
+mnist_hierarchical_rnn.py 训练分层RNN以对MNIST数字进行分类
+
+mnist_irnn.py 使用MNIST数据集的IRNN实验
+
+mnist_mlp.py 在MNIST数据集上训练简单的多层感知器
+
+mnist_net2net.py 使用MNIST再现Net2Net实验
+
+mnist_siamese_graph.py 使用MNIST数据集训练一个多层感知器
+
+mnist_sklearn_wrapper.py 使用sklearn包装器
+
+mnist_swwae.py 使用MNIST数据集训练自动编码器
+
+mnist_transfer_cnn.py 转移学习
+
+neural_doodle.py 神经涂鸦
+
+neural_style_transfer.py 艺术画生成
+
+pretrained_word_embeddings.py 在新闻组数据集上训练文本分类模型
+
+reuters_mlp.py 在路透社newswire主题分类任务上训练和评估简单的MLP
+
+stateful_lstm.py 使用有状态的RNN来有效地建模长序列
+
+variational_autoencoder.py 构建变分自动编码器
+
+variational_autoencoder_deconv.py 使用解卷积层与Keras构建变分自动编码器
+
+
+# Keras examples
 
 [addition_rnn.py](addition_rnn.py)
 Implementation of sequence to sequence learning for performing addition of two numbers (as strings).
