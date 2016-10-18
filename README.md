@@ -9,15 +9,15 @@
 
 ##记录小润学习的开源资料：
 ###机器学习相关
-网站：
+#####网站：
 1. [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 2. [机器学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 3. [我爱机器学习](https://www.52ml.net/star)
 4. [寒小阳的博客](http://blog.csdn.net/han_xiaoyang?viewmode=contents)
-[书籍](https://www.douban.com/people/100617219/)：
+#####[书籍](https://www.douban.com/people/100617219/)：
 1. 统计学习方法、集体智慧编程、利用python进行数据分析、机器学习实战、机器学习西瓜书
 2. 自然语言处理、计算广告、推荐系统、openCV计算机视觉
-课程：
+#####课程：
 1. [Coursera Ng大牛的课程](https://www.coursera.org/learn/machine-learning)
 2. [小象学院邹博老师的课程](http://www.chinahadoop.cn/classroom/23/courses)
 ###深度学习相关
