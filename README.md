@@ -46,8 +46,8 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 4. [寒小阳的博客](http://blog.csdn.net/han_xiaoyang?viewmode=contents)
 
 #####[书籍](https://www.douban.com/people/100617219/)：
-1. 统计学习方法、集体智慧编程、利用python进行数据分析、机器学习实战、机器学习西瓜书
-2. 自然语言处理、计算广告、推荐系统、openCV计算机视觉
+1. 统计学习方法、集体智慧编程、利用python进行数据分析、机器学习实战、机器学习西瓜书、Spark MLlib 机器学习
+2. 自然语言处理、计算广告、推荐系统、计算机视觉、大数据应用实践
 
 #####课程：
 1. [Coursera Ng大牛的课程](https://www.coursera.org/learn/machine-learning)
@@ -55,12 +55,12 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 
 ###深度学习相关
 #####网站：
-1. [deeplearning.net](http://deeplearning.net/)
+1. [deeplearning.net](http://deeplearning.net/) 收藏夹必备，paper指南
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 3. [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 #####书籍：
-1. [DeepLearningBook](http://www.deeplearningbook.org/)亚马逊预售12月出，等不及花40元打
+1. [DeepLearningBook](http://www.deeplearningbook.org/) 亚马逊预售12月出，等不及花40元打
 
 #####课程：
 1. [优达学城的deep-learning免费课程](https://cn.udacity.com/course/deep-learning--ud730)
