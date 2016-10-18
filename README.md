@@ -14,11 +14,11 @@
 2. 掌握机器学习主流的模型及其[算法](https://github.com/zhourunlai/machine-learning-algorithm)，包括有生成方法：朴素贝叶斯、隐马尔可夫模型，判别方法：感知机、logistic回归、决策树、K近邻、支持向量机、提升方法、最大熵、条件随机场等；
 > 资料列表
 网站：
-[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-[机器学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
-[我爱机器学习](https://www.52ml.net/star)
-[寒小阳的博客](http://blog.csdn.net/han_xiaoyang?viewmode=contents)
-[书籍](https://www.douban.com/people/100617219/)：
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)\n
+[机器学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)\n
+[我爱机器学习](https://www.52ml.net/star)\n
+[寒小阳的博客](http://blog.csdn.net/han_xiaoyang?viewmode=contents)\n
+[书籍](https://www.douban.com/people/100617219/)：\n
 统计学习方法、集体智慧编程、利用python进行数据分析、机器学习实战、机器学习西瓜书
 自然语言处理、计算广告、推荐系统、openCV计算机视觉
 课程：
