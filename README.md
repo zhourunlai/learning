@@ -22,7 +22,20 @@
 #####课程：
 1. [Coursera Ng大牛的课程](https://www.coursera.org/learn/machine-learning)
 2. [小象学院邹博老师的课程](http://www.chinahadoop.cn/classroom/23/courses)
+
 ###深度学习相关
+#####网站：
+1. [deeplearning.net](http://deeplearning.net/)
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+3. [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+
+#####书籍：
+1. [DeepLearningBook](http://www.deeplearningbook.org/)亚马逊预售12月出，等不及花40元打 
+
+#####课程：
+1. [优达学城的deep-learning免费课程](https://cn.udacity.com/course/deep-learning--ud730)
+2. [深度学习2016暑假课程有PPT无字幕](http://videolectures.net/deeplearning2016_montreal/)
+3. [周莫烦的录制视频Youtebe和优酷均有](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
 
 ##记录小润学习的历程点滴:
 
