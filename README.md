@@ -1,5 +1,7 @@
 # deeplearningDemo
 
+
+
 ##一、记录小润学习的深度学习例子：
 
 | 名称 | 目录|
@@ -8,7 +10,33 @@
 | Keras | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Keras)|
 
 
-##二、记录小润学习的开源资料：
+
+
+##二、记录小润学习的历程点滴:
+
+1. 掌握机器学习相关的概念及计算公式，包括有/无/半监督学习，强化学习，分类/回归/标注，聚类；训练集/验证集，交叉验证，测试集；数据预处理，正则化，归一化；损失函数，经验风险最小化，结构风险最小化，最优化算法；训练误差，泛化误差，欠拟合，过拟合；准确率，召回率，F1值，ROC和AUC；
+
+2. 掌握机器学习主流的模型及其[算法](https://github.com/zhourunlai/machine-learning-algorithm)，包括有生成方法：朴素贝叶斯、隐马尔可夫模型，判别方法：感知机、logistic回归、决策树、K近邻、支持向量机、提升方法、最大熵、条件随机场等；
+
+3. 安装 numpy, scipy, pandas, matplotlib, scikit-learn, xgboost 等 python 包，[实战](https://github.com/zhourunlai/machine-learning-in-action)项目：识别手写数字、画决策树、文本挖掘过滤垃圾邮件、情感倾向分析、波斯顿房价预测、基于协同过滤的推荐系统、图像分类等，上手 kaggle、KDD 比赛题或者阿里天池、滴滴Di-Tech、今日头条bytecup 比赛题；
+
+4. 了解大数据相关的知识，包括有Flume、Kafka，Storm，Hadoop，Spark等，知道Hadoop基金下的项目（Cassandra、HBase、Hive、Pig、ZooKeeper等）的应用场景，特别地要知道分布式计算框架的原理，从 HDFS、MapReducer 到 Streaming；
+
+5. 安装 spark-2.0.0-bin-hadoop2.7，掌握 [Hadoop Shell命令](https://spark.apache.org/docs/latest/spark-standalone.html)，两种模式下运行 [Spark 作业](https://spark.apache.org/docs/latest/spark-standalone.html)，了解 Spark SQL/Streaming/GraphX，掌握 [Spark MLlib 写机器学习算法](http://spark.apache.org/mllib/)；
+
+6. 掌握深度学习相关的概念及计算公式，包括神经元模型、输入层、隐藏层、输出层、目标函数、激活函数、weight、bias、BP算法、随机梯度下降、多层感知器、卷积神经网络CNN、递归神经网络RNN、LSTM、全连接网络等；
+
+7. 安装深度学习框架 TensorFlow/Theano 或其它，掌握 tf 的张量、图、会话的用法，了解分布式/使用GPU的方法，动手写经典的项目，学会使用 Vgg 16/19 和 ResNet 的模型并运用到自己的项目中；
+
+8. 安装更上层的[深度学习库 Keras](http://keras.io/)，更加快速、熟练的编写出各种种类的神经网络模型。
+
+>tips:
+Fllow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Aymeric Damien(Google AI团队)、Aymeric Damien(Facebook AI实验室)、Yoshua Bengio(蒙特利尔大学终身教授) 、Andrew Ng(斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握最新动态和进展
+
+
+
+
+##三、记录小润学习的开源资料：
 ###机器学习相关
 #####网站：
 1. [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -31,33 +59,12 @@
 3. [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 #####书籍：
-1. [DeepLearningBook](http://www.deeplearningbook.org/)亚马逊预售12月出，等不及花40元打 
+1. [DeepLearningBook](http://www.deeplearningbook.org/)亚马逊预售12月出，等不及花40元打
 
 #####课程：
 1. [优达学城的deep-learning免费课程](https://cn.udacity.com/course/deep-learning--ud730)
 2. [深度学习2016暑假课程有PPT无字幕](http://videolectures.net/deeplearning2016_montreal/)
 3. [周莫烦的录制视频Youtebe和优酷均有](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
-
-##三、记录小润学习的历程点滴:
-
-1. 掌握机器学习相关的概念及计算公式，包括有/无/半监督学习，强化学习，分类/回归/标注，聚类；训练集/验证集，交叉验证，测试集；数据预处理，正则化，归一化；损失函数，经验风险最小化，结构风险最小化，最优化算法；训练误差，泛化误差，欠拟合，过拟合；准确率，召回率，F1值，ROC和AUC；
-
-2. 掌握机器学习主流的模型及其[算法](https://github.com/zhourunlai/machine-learning-algorithm)，包括有生成方法：朴素贝叶斯、隐马尔可夫模型，判别方法：感知机、logistic回归、决策树、K近邻、支持向量机、提升方法、最大熵、条件随机场等；
-
-3. 安装 numpy, scipy, pandas, matplotlib, scikit-learn, xgboost 等 python 包，[实战](https://github.com/zhourunlai/machine-learning-in-action)项目：识别手写数字、画决策树、文本挖掘过滤垃圾邮件、情感倾向分析、波斯顿房价预测、基于协同过滤的推荐系统、图像分类等，上手 kaggle、KDD 比赛题或者阿里天池、滴滴Di-Tech、今日头条bytecup 比赛题；
-
-4. 了解大数据相关的知识，包括有Flume、Kafka，Storm，Hadoop，Spark等，知道Hadoop基金下的项目（Cassandra、HBase、Hive、Pig、ZooKeeper等）的应用场景，特别地要知道分布式计算框架的原理，从 HDFS、MapReducer 到 Streaming；
-
-5. 安装 spark-2.0.0-bin-hadoop2.7，掌握 [Hadoop Shell命令](https://spark.apache.org/docs/latest/spark-standalone.html)，两种模式下运行 [Spark 作业](https://spark.apache.org/docs/latest/spark-standalone.html)，了解 Spark SQL/Streaming/GraphX，掌握 [Spark MLlib 写机器学习算法](http://spark.apache.org/mllib/)；
-
-6. 掌握深度学习相关的概念及计算公式，包括神经元模型、输入层、隐藏层、输出层、目标函数、激活函数、weight、bias、BP算法、随机梯度下降、多层感知器、卷积神经网络CNN、递归神经网络RNN、LSTM、全连接网络等；
-
-7. 安装深度学习框架 TensorFlow/Theano 或其它，掌握 tf 的张量、图、会话的用法，了解分布式/使用GPU的方法，动手写经典的项目，学会使用 Vgg 16/19 和 ResNet 的模型并运用到自己的项目中；
-
-8. 安装更上层的[深度学习库 Keras](http://keras.io/)，更加快速、熟练的编写出各种种类的神经网络模型。
-
->tips:
-Fllow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Aymeric Damien(Google AI团队)、Aymeric Damien(Facebook AI实验室)、Yoshua Bengio(蒙特利尔大学终身教授) 、Andrew Ng(斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握最新动态和进展
 
 
 
