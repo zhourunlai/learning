@@ -7,6 +7,7 @@
 | 名称 | 目录|
 |:-----|-----|
 | TensorFlow | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/TensorFlow)|
+| Theano | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Theano)|
 | Keras | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Keras)|
 
 
