@@ -69,4 +69,13 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 3. [周莫烦的录制视频Youtebe和优酷均有](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
 
 
+>tips: Reddit 上订阅一些主题如 [/r/deeplearning](https://www.reddit.com/r/deeplearning/)，可以知道业界最新的新闻动态，还有一些 discussion 如 WAYR([what_are_you_reading](https://www.reddit.com/r/MachineLearning/comments/4qyjiq/machine_learning_wayr_what_are_you_reading_week_1/)) 可以交流。
+
+还有就是使用开发机，我开始用的 [SuperVessel](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/) 装了GPU下的TF，但是必须在规定的VPN下才能SSH；然后转到 [AWS](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的，
+
+```
+python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512
+```
+
+用前者低配版的训练 neural-style，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站...
 
