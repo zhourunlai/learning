@@ -42,11 +42,6 @@
 
 8. 安装更上层的[深度学习库 Keras](http://keras.io/)，更加快速、熟练的编写出各种种类的神经网络模型。
 
->tips:
-Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Geoffrey Hinton (Google AI团队)、Aymeric Damien (Facebook AI实验室)、Yoshua Bengio (蒙特利尔大学终身教授) 、Andrew Ng (斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握最新动态和进展
-
-
-
 
 
 
@@ -105,7 +100,9 @@ TODO:
 3. [周莫烦的录制视频Youtebe和优酷均有](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
 
 
->tips: Reddit 上订阅一些主题如 [/r/deeplearning](https://www.reddit.com/r/deeplearning/)，可以知道业界最新的新闻动态，还有一些 discussion 如 WAYR([what_are_you_reading](https://www.reddit.com/r/MachineLearning/comments/4qyjiq/machine_learning_wayr_what_are_you_reading_week_1/)) 可以交流。
+>tips: 
+Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 Geoffrey Hinton (Google AI团队)、Aymeric Damien (Facebook AI实验室)、Yoshua Bengio (蒙特利尔大学终身教授) 、Andrew Ng (斯坦福大学副教授)、Li Feifei、Andrej Karpathy 等，掌握大神们的最新研究进展；
+Reddit 上订阅一些主题如 [/r/deeplearning](https://www.reddit.com/r/deeplearning/)，可以知道业界最新的新闻动态，还有一些 discussion 如 WAYR([what_are_you_reading](https://www.reddit.com/r/MachineLearning/comments/4qyjiq/machine_learning_wayr_what_are_you_reading_week_1/)) 可以交流。
 
 
 
