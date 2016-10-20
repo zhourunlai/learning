@@ -25,7 +25,7 @@
 
 5. 安装 spark-2.0.0-bin-hadoop2.7，掌握 [Hadoop Shell命令](https://spark.apache.org/docs/latest/spark-standalone.html)，两种模式下运行 [Spark 作业](https://spark.apache.org/docs/latest/spark-standalone.html)，了解 Spark SQL/Streaming/GraphX，掌握 [Spark MLlib 写机器学习算法](http://spark.apache.org/mllib/)；
 
-6. 掌握深度学习相关的概念及计算公式，包括神经元模型、输入层、隐藏层、输出层、目标函数、激活函数、weight、bias、BP算法、随机梯度下降、多层感知器、卷积神经网络CNN、递归神经网络RNN、LSTM、全连接网络等；
+6. 深度学习相关的概念及计算公式，包括神经元模型、输入层、隐藏层、输出层、weight、bias、BP算法、目标函数（mean_squared_error、mean_absolute_percentage_error等）、激活函数（sigmoid、softmax、tanh、relu等）、优化算法（SGD、RMSprop、Adagrad、Adam等）、多层感知器、自动编码器、卷积神经网络CNN（卷积层Convolution2D、池化层MaxPooling2D）、递归神经网络RNN、LSTM、全连接网络等；
 
 7. 安装深度学习框架 TensorFlow/Theano 或其它，掌握 tf 的张量、图、会话的用法，了解分布式/使用GPU的方法，动手写经典的项目，学会使用 Vgg 16/19 和 ResNet 的模型并运用到自己的项目中；
 
