@@ -36,6 +36,15 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 
 
 
+TODO:
+1. Autoencoder：
+特点：1）数据相关的，2）有损的，3）从样本中自动学习的；
+作用：1）数据去噪，2）进行可视化而降维；
+类型：简单自编码器、稀疏自编码器、深度自编码器、卷积自编码器、序列到序列的自动编码器、变分自编码器；
+
+2. CNN：
+
+
 
 
 ##三、记录小润学习的开源资料：
@@ -71,11 +80,16 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 
 >tips: Reddit 上订阅一些主题如 [/r/deeplearning](https://www.reddit.com/r/deeplearning/)，可以知道业界最新的新闻动态，还有一些 discussion 如 WAYR([what_are_you_reading](https://www.reddit.com/r/MachineLearning/comments/4qyjiq/machine_learning_wayr_what_are_you_reading_week_1/)) 可以交流。
 
-还有就是使用开发机，我开始用的 [SuperVessel](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/) 装了GPU下的TF，但是必须在规定的VPN下才能SSH；然后转到 [AWS](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的，
 
+
+
+##四、记录小润的开发机
+1. 自己的 **MacBook Pro** 一训练数据CPU升到200%~300~就开始发热，甚至风扇开始转；
+2. 偶然听朋友建议到 [**SuperVessel**](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/)上试试，装了GPU下的TF，但是必须在规定的VPN下才能SSH；
+3. 接下来转到 [**AWS**](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)，可以自己搭建应用了， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的，
 ```
 python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512
 ```
-
-用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站...
+用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；
+4. 等毕业了自己搭一台**工作站**吧...
 
