@@ -77,5 +77,5 @@ Follow 业界大牛的 [Twitter](https://twitter.com/ufozrl/following)，比如 
 python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512
 ```
 
-用前者低配版的训练 neural-style，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站...
+用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站...
 
