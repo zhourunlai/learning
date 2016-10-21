@@ -59,7 +59,7 @@ TODO:
 2. CNN：
     LeNet、AlexNet、GoogLeNet、VGG、ResNet
 ```
-![cnn](image/cnn.jpg)
+![cnn](image/cnn.png)
 
 
 
