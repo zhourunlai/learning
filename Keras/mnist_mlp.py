@@ -15,6 +15,8 @@ from keras.layers.core import Dense, Dropout, Activation
 from keras.optimizers import SGD, Adam, RMSprop
 from keras.utils import np_utils
 
+import tensorflow as tf
+tf.python.control_flow_ops = tf
 
 batch_size = 128
 nb_classes = 10
