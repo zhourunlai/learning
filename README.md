@@ -58,6 +58,8 @@ TODO:
     类型：简单自编码器、稀疏自编码器、深度自编码器、卷积自编码器、序列到序列的自动编码器、变分自编码器；
 2. CNN：
     LeNet、AlexNet、GoogLeNet、VGG、ResNet
+3. RNN：
+4. LSTM：
 ```
 ![cnn](image/cnn.png)
 
