@@ -37,6 +37,9 @@ Y_test = np_utils.to_categorical(y_test, nb_classes)
 print('Y_train shape:', Y_train.shape)
 print('Y_test shape:', Y_test.shape)
 
+import tensorflow as tf
+tf.python.control_flow_ops = tf
+
 print('Building model...')
 model = Sequential()
 model.add(Dense(512, input_shape=(max_words,)))
