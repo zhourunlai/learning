@@ -2,6 +2,9 @@ from vgg16 import VGG16
 from keras.preprocessing import image
 from imagenet_utils import preprocess_input
 
+import tensorflow as tf
+tf.python.control_flow_ops = tf
+
 model = VGG16(weights='imagenet', include_top=False)
 
 img_path = 'test.jpeg'

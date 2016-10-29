@@ -3,6 +3,9 @@ from keras.preprocessing import image
 from imagenet_utils import preprocess_input
 from keras.models import Model
 
+import tensorflow as tf
+tf.python.control_flow_ops = tf
+
 base_model = VGG19(weights='imagenet')
 model = Model(input=base_model.input, output=base_model.get_layer('block4_pool').output)
 

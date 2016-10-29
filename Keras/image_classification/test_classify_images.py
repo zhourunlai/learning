@@ -23,7 +23,7 @@ preds = decode_predictions(preds)
 print u'图像分类', u'概率'
 for items in preds[0]:
     print items[1], items[2]
-    # print this->translate(items[1]), items[2]
+    # print translate(items[1]), items[2]
 
 def translate(name):
     url = 'http://fanyi.youdao.com/openapi.do?keyfrom=keras55&key=821526358&type=data&doctype=json&version=1.1&q=' + name
