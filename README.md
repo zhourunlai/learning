@@ -78,7 +78,9 @@ TODO:
     包装器:Bidirectional, TimeDistributed
 
 3. RNN：
+    [http://deeplearning.net/tutorial/rnnslu.html](http://deeplearning.net/tutorial/rnnslu.html)
 4. LSTM：
+    [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
 ```
 ![cnn](image/cnn.png)
 
