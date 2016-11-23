@@ -152,3 +152,22 @@ python neural_style.py --content content.jpg --styles style.jpg --output output.
 用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；
 4. 等毕业了自己搭一台**工作站**吧...
 
+
+
+
+
+
+
+
+
+
+
+
+***
+
+##五、集群部署相关
+1. [Spark集群部署](https://zhuanlan.zhihu.com/p/23689558)
+2. [分布式tensorflow部署与训练](http://blog.xiaorun.me/index.php/archives/375/)
+
+使用 [git hook](https://dearb.me/archive/2015-03-30/automate-deploy-your-websites-with-git-hook/)，配合 [rsync](http://www.dahouduan.com/2014/11/19/rsync-daemon/)，本地开发机一次提交代码，使集群间指定目录代码一致，节省每台机器都复制粘贴代码的操作；这样跑分布式训练时，只需要在每台机器上带参数来运行代码就可以了
+
