@@ -55,7 +55,7 @@
 
 
 ***
-```
+
 TODO:
 1. Autoencoder：
     特点：1）数据相关的，2）有损的，3）从样本中自动学习的；
@@ -87,7 +87,8 @@ TODO:
     [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
 5. GAN:
     [http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
-```
+
+
 ![cnn](image/cnn.png)
 
 
