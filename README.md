@@ -1,7 +1,6 @@
 # deeplearningDemo
 
-
-###Wunderlist
+##Wunderlist
 
 - [ ] 1. [Machine Learning Yearning](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/README.md)
 
@@ -9,6 +8,7 @@
 
 
 
+***
 
 ##一、记录小润学习的深度学习例子：
 
@@ -18,12 +18,6 @@
 | TensorFlow | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/TensorFlow)|
 | Theano | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Theano)|
 | Keras | [[dir]](https://github.com/zhourunlai/deeplearningDemo/tree/master/Keras)|
-
-
-
-
-
-
 
 
 
@@ -91,13 +85,7 @@ TODO:
 5. GAN:  
     [http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)  
 
-
 ![cnn](image/cnn.png)
-
-
-
-
-
 
 
 
@@ -141,43 +129,33 @@ TODO:
 
 
 
-
-
-
-
-
-
-
-
 ***
 
 ##四、记录小润的开发机
+
 1. 自己的 **MacBook Pro** 一训练数据CPU升到200%~300~就开始发热，甚至风扇开始转；  
+
 2. 偶然听朋友建议到 [**SuperVessel**](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/)上试试，装了GPU下的TF，但是必须在规定的VPN下才能SSH；  
+
 3. 接下来转到 [**AWS**](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)，可以自己搭建应用了， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的，  
-4. 阿里云HPC 和 Ucloud 现也有带 Tesla 的物理机了  
+
+4. 阿里云HPC 和 Ucloud 现也有带 Tesla 的物理机了。用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；  
+
 ```
 python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512
 ```
-用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；  
-4. 等毕业了自己搭一台**工作站**吧...  
 
-
-
-
-
-
-
-
-
+5. 等毕业了自己搭一台**工作站**吧...  
 
 
 
 ***
 
 ##五、集群部署相关
-1. [Spark集群部署](https://zhuanlan.zhihu.com/p/23689558)
-2. [分布式tensorflow部署与训练](http://blog.xiaorun.me/index.php/archives/375/)
+
+1. [Spark集群部署](https://zhuanlan.zhihu.com/p/23689558)  
+
+2. [分布式tensorflow部署与训练](http://blog.xiaorun.me/index.php/archives/375/)  
 
 使用 [git hook](https://dearb.me/archive/2015-03-30/automate-deploy-your-websites-with-git-hook/)，配合 [rsync](http://www.dahouduan.com/2014/11/19/rsync-daemon/)，本地开发机一次提交代码，使集群间指定目录代码一致，节省每台机器都复制粘贴代码的操作；这样跑分布式训练时，只需要在每台机器上带参数来运行代码就可以了
 
