@@ -3,7 +3,7 @@
 
 ###Wunderlist
 
-- [ ] 1. [Machine Learning Yearning](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/C01-12.md)
+- [ ] 1. [Machine Learning Yearning](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/README.md)
 
 - [ ] 2. [Deep Learning Book](https://github.com/zhourunlai/deep-learning-demo/blob/master/DLbook/DeepLearningPapers.md)
 
