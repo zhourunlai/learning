@@ -56,37 +56,39 @@
 
 ***
 
-TODO:
-1. Autoencoder：
-    特点：1）数据相关的，2）有损的，3）从样本中自动学习的；
-    作用：1）数据去噪，2）进行可视化而降维；
-    类型：简单自编码器、稀疏自编码器、深度自编码器、卷积自编码器、序列到序列的自动编码器、变分自编码器；
+TODO:  
+1. Autoencoder：  
+    特点：1）数据相关的，2）有损的，3）从样本中自动学习的；  
+    作用：1）数据去噪，2）进行可视化而降维；  
+    类型：简单自编码器、稀疏自编码器、深度自编码器、卷积自编码器、序列到序列的自动编码器、变分自编码器；  
     
-2. CNN：
-    LeNet、AlexNet、GoogLeNet、VGG、ResNet
+2. CNN：  
+    LeNet、AlexNet、GoogLeNet、VGG、ResNet  
 
-    高级激活: LeakyReLU, PReLU, ELU, ParametricSoftplus, ThresholdedReLU, SReLU
+    高级激活: LeakyReLU, PReLU, ELU, ParametricSoftplus, ThresholdedReLU, SReLU  
 
-    卷积: Convolution1D, Convolution2D, AtrousConvolution2D, SeparableConvolution2D, Deconvolution2D, Convolution3D, UpSampling1D, UpSampling2D, UpSampling3D, ZeroPadding1D, ZeroPadding2D, ZeroPadding3D
+    卷积: Convolution1D, Convolution2D, AtrousConvolution2D, SeparableConvolution2D, Deconvolution2D, Convolution3D, UpSampling1D, UpSampling2D, UpSampling3D, ZeroPadding1D, ZeroPadding2D, ZeroPadding3D  
 
-    内核: Dense, Activation, Dropout, SpatialDropout2D, SpatialDropout3D, Flatten, Reshape, Permute, RepeatVector, Merge, Highway, MaxoutDense
+    内核: Dense, Activation, Dropout, SpatialDropout2D, SpatialDropout3D, Flatten, Reshape, Permute, RepeatVector, Merge, Highway, MaxoutDense  
 
-    嵌入: Embedding
+    嵌入: Embedding  
 
-    归一化: BatchNormalization
+    归一化: BatchNormalization  
 
-    池化: MaxPooling1D, MaxPooling2D, MaxPooling3D, AveragePooling1D, AveragePooling2D, AveragePooling3D, GlobalMaxPooling1D, GlobalAveragePooling1D, GlobalMaxPooling2D, GlobalAveragePooling2D
+    池化: MaxPooling1D, MaxPooling2D, MaxPooling3D, AveragePooling1D, AveragePooling2D, AveragePooling3D, GlobalMaxPooling1D, GlobalAveragePooling1D, GlobalMaxPooling2D, GlobalAveragePooling2D  
 
-    循环: SimpleRNN, LSTM, GRU
+    循环: SimpleRNN, LSTM, GRU  
 
-    包装器:Bidirectional, TimeDistributed
+    包装器:Bidirectional, TimeDistributed  
 
-3. RNN：
-    [http://deeplearning.net/tutorial/rnnslu.html](http://deeplearning.net/tutorial/rnnslu.html)
-4. LSTM：
-    [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
-5. GAN:
-    [http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
+3. RNN：  
+    [http://deeplearning.net/tutorial/rnnslu.html](http://deeplearning.net/tutorial/rnnslu.html)  
+
+4. LSTM：  
+    [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)  
+    
+5. GAN:  
+    [http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)  
 
 
 ![cnn](image/cnn.png)
