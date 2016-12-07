@@ -5,7 +5,7 @@
 
 - [ ] 1. [Machine Learning Yearning](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/README.md)
 
-- [ ] 2. [Deep Learning Book](https://github.com/zhourunlai/deep-learning-demo/blob/master/DLbook/DeepLearningPapers.md)(感谢周志华团队的翻译工作，中文版点击[这里](https://github.com/exacity/deeplearningbook-chinese))
+- [ ] 2. [Deep Learning Book](https://github.com/zhourunlai/deep-learning-demo/blob/master/DLbook/DeepLearningPapers.md)(感谢北京大学张志华团队的翻译工作，中文版点击[这里](https://github.com/exacity/deeplearningbook-chinese))
 
 
 
