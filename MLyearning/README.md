@@ -23,7 +23,7 @@ takeaways这里有相关的[小贴士](#12小贴士建立开发集和测试集)�
 
 #TODO
 
-- [x] [01-12章这里](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/Machine_Learning_Yearning_V0.5_01.pdf)
+- [x] [01-12章](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/Machine_Learning_Yearning_V0.5_01.pdf)
 - [ ] [13章](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/Machine_Learning_Yearning_V0.5_02.pdf)
 - [ ] 后续章节
 
