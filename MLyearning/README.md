@@ -3,7 +3,7 @@
 >小润  
 >2016-12-05  
 
-这周发布了前12章，接下来几周将会发布更多  
+第一周发布了前12章，这一周发布了第13章，接下来几周将会发布更多  
 邮件订阅前往：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
 
@@ -23,8 +23,8 @@ takeaways这里有相关的[小贴士](#12小贴士建立开发集和测试集)�
 
 #TODO
 
-- [x] 01-12章
-- [ ] 13章
+- [x] [01-12章这里](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/Machine_Learning_Yearning_V0.5_01.pdf)
+- [ ] [13章](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/Machine_Learning_Yearning_V0.5_02.pdf)
 - [ ] 后续章节
 
 
