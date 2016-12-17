@@ -79,6 +79,7 @@ TODO:
     
 5. GAN:  
     [http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)  
+    [https://github.com/255BITS/HyperGAN](https://github.com/255BITS/HyperGAN)
 
 ![cnn](image/cnn.png)
 
