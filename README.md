@@ -137,7 +137,9 @@ TODO:
 
 4. 阿里云HPC 和 Ucloud 现也有带 Tesla 的物理机了。用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右，```python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512```。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；      
 
-5. 等毕业了自己搭一台**工作站**吧...  
+5. 等毕业了自己搭一台**工作站**吧... 
+
+6. TPU是什么鬼
 
 
 
