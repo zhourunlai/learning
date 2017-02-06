@@ -153,3 +153,17 @@ TODO:
 
 使用 [git hook](https://dearb.me/archive/2015-03-30/automate-deploy-your-websites-with-git-hook/)，配合 [rsync](http://www.dahouduan.com/2014/11/19/rsync-daemon/)，本地开发机一次提交代码，使集群间指定目录代码一致，节省每台机器都复制粘贴代码的操作；这样跑分布式训练时，只需要在每台机器上带参数来运行代码就可以了
 
+
+
+***
+
+##六、项目
+
+1. 图像风格转换neural-style [anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+
+2. 素描自动上色 [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
+
+3. 图像描述 [im2txt](https://github.com/iFighting/models/tree/master/im2txt)
+
+4. 图片生成故事 [neural-storyteller](https://github.com/ryankiros/neural-storyteller)
+
