@@ -133,7 +133,7 @@ TODO:
 
 2. 偶然听朋友建议到 [**SuperVessel**](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/)上试试，装了GPU下的TF，但是必须在规定的VPN下才能SSH；  
 
-3. 接下来转到 [**AWS**](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)，可以自己搭建应用了， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的，  
+3. 接下来转到 [**AWS**](http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/using_cluster_computing.html#gpu-instance-specifications)，可以自己搭建应用了， 现在有两种虚拟机 g2.2xlarge（单块CPU，4G显存）和 g2.8xlarge（4块CPU，4G显存），都是CUDA的。知乎上的教程[在AWS上配置深度学习主机](https://zhuanlan.zhihu.com/p/25066187)。
 
 4. 阿里云HPC 和 Ucloud 现也有带 Tesla 的物理机了。用前者低配版的训练 [neural-style](https://github.com/anishathalye/neural-style)，14分钟左右，```python neural_style.py --content content.jpg --styles style.jpg --output output.jpg --iteration 1000 --width 512```。用之前算一算数据量要付费多少，大了的话买虚拟机还不如自己搭一台工作站；      
 
@@ -157,13 +157,29 @@ TODO:
 
 ***
 
-##六、项目
+##六、项目demo
 
-1. 图像风格转换neural-style [anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+1. 图像相关：
+    1.1 图像风格转换neural-style [anishathalye/neural-style](https://github.com/anishathalye/neural-style)
+    1.2 素描自动上色 [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
+    1.3 图像描述 [im2txt](https://github.com/iFighting/models/tree/master/im2txt)
+    1.4 图片生成故事 [neural-storyteller](https://github.com/ryankiros/neural-storyteller)
 
-2. 素描自动上色 [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)
+2. NLP相关：
+    2.1 古诗词生成器
 
-3. 图像描述 [im2txt](https://github.com/iFighting/models/tree/master/im2txt)
+3. 音频相关：
+    3.1 创作歌曲/歌曲风格转换
 
-4. 图片生成故事 [neural-storyteller](https://github.com/ryankiros/neural-storyteller)
+4. 人脸相关：
+
+
+
+
+
+***
+
+##七、调参trick
+
+1. [Theano调试技巧](https://zhuanlan.zhihu.com/p/24857032)
 
