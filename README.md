@@ -162,8 +162,8 @@ TODO:
 1. IMAGE相关：  
     1.1 图像风格转换neural-style [anishathalye/neural-style](https://github.com/anishathalye/neural-style)  
     1.2 素描自动上色 [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer)  
-    1.3 图像描述 [im2txt](https://github.com/iFighting/models/tree/master/im2txt)  
-    1.4 图片生成故事 [neural-storyteller](https://github.com/ryankiros/neural-storyteller)  
+    1.3 图像描述 [iFighting/im2txt](https://github.com/iFighting/models/tree/master/im2txt)  
+    1.4 图片生成故事 [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller)  
     1.5 小度机器人  
     1.6 生成明星脸  
 
@@ -175,7 +175,7 @@ TODO:
 
 4. RL相关：  
     4.1 愤怒的小鸟 [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)  
-    4.2 模拟自动驾驶 [upul/behavioral_cloning](https://github.com/upul/behavioral_cloning) [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart)  
+    4.2 模拟自动驾驶 [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart)  
 
 
 
