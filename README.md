@@ -55,6 +55,8 @@ TODO:
 2. CNN：  
     LeNet、AlexNet、GoogLeNet、VGG、ResNet  
 
+    [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
+    
     高级激活: LeakyReLU, PReLU, ELU, ParametricSoftplus, ThresholdedReLU, SReLU  
 
     卷积: Convolution1D, Convolution2D, AtrousConvolution2D, SeparableConvolution2D, Deconvolution2D, Convolution3D, UpSampling1D, UpSampling2D, UpSampling3D, ZeroPadding1D, ZeroPadding2D, ZeroPadding3D  
@@ -176,7 +178,6 @@ TODO:
 4. RL相关：  
     4.1 愤怒的小鸟 [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)  
     4.2 模拟自动驾驶 [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart)  
-
 
 
 
