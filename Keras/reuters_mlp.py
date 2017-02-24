@@ -21,7 +21,7 @@ print('Loading data...')
 print(len(X_train), 'train sequences')
 print(len(X_test), 'test sequences')
 
-nb_classes = np.max(y_train)+1
+nb_classes = np.max(y_train) + 1
 print(nb_classes, 'classes')
 
 print('Vectorizing sequence data...')
@@ -36,9 +36,6 @@ Y_train = np_utils.to_categorical(y_train, nb_classes)
 Y_test = np_utils.to_categorical(y_test, nb_classes)
 print('Y_train shape:', Y_train.shape)
 print('Y_test shape:', Y_test.shape)
-
-import tensorflow as tf
-tf.python.control_flow_ops = tf
 
 print('Building model...')
 model = Sequential()

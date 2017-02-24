@@ -12,11 +12,9 @@ np.random.seed(1337)  # for reproducibility
 from keras.datasets import mnist
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation
-from keras.optimizers import SGD, Adam, RMSprop
+from keras.optimizers import RMSprop
 from keras.utils import np_utils
 
-import tensorflow as tf
-tf.python.control_flow_ops = tf
 
 batch_size = 128
 nb_classes = 10

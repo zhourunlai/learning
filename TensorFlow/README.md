@@ -3,6 +3,8 @@ TensorFlow Tutorial with popular machine learning algorithms implementation. Thi
 
 It is suitable for beginners who want to find clear and concise examples about TensorFlow. For readability, the tutorial includes both notebook and code with explanations.
 
+Note: If you are using older TensorFlow version (before 0.12), please have a [look here](https://github.com/aymericdamien/TensorFlow-Examples/tree/0.11)
+
 ## Tutorial index
 
 #### 0 - Prerequisite
@@ -98,7 +100,7 @@ The following examples are coming from [TFLearn](https://github.com/tflearn/tfle
 
 ## Dependencies
 ```
-tensorflow
+tensorflow 1.0alpha
 numpy
 matplotlib
 cuda
