@@ -131,7 +131,7 @@ TODO:
 
 ##四、记录开发机
 
-1. 自己的 **MacBook Pro** 一训练数据CPU升到200%~300~就开始发热，甚至风扇开始转；  
+1. 自己的 MacBook Pro 一训练数据CPU升到200%~300~就开始发热，甚至风扇开始转；
 
 2. 偶然听朋友建议到 [**SuperVessel**](https://crl.ptopenlab.com:8800/dashboard/auth/login/?next=/dashboard/project/instances/)上试试，装了GPU下的TF，但是必须在规定的VPN下才能SSH；  
 
