@@ -1,6 +1,6 @@
 # deeplearningDemo
 
-##Wunderlist
+## Wunderlist
 
 - [ ] 1. [Machine Learning Yearning](https://github.com/zhourunlai/deep-learning-demo/blob/master/MLyearning/README.md)
 
@@ -10,7 +10,7 @@
 
 ***
 
-##一、记录深度学习例子：
+## 一、记录深度学习例子：
 
 | 名称 | 目录|
 |:-----|-----|
@@ -23,7 +23,7 @@
 
 ***
 
-##二、记录历程点滴:
+## 二、记录历程点滴:
 
 1. 掌握机器学习相关的概念及计算公式，包括有/无/半监督学习，强化学习，分类/回归/标注，聚类；训练集/验证集，交叉验证，测试集；数据预处理，正则化，归一化；损失函数，经验风险最小化，结构风险最小化，最优化算法；训练误差，泛化误差，欠拟合，过拟合；准确率，召回率，F1值，ROC和AUC；
 
@@ -90,32 +90,32 @@ TODO:
 
 ***
 
-##三、记录开源资料：
-###机器学习相关
-#####网站：
+## 三、记录开源资料：
+### 机器学习相关
+##### 网站：
 1. [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 2. [dl](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 3. [我爱机器学习](https://www.52ml.net/star)
 4. [寒小阳的博客](http://blog.csdn.net/han_xiaoyang?viewmode=contents)
 
-#####[书籍](https://www.douban.com/people/100617219/)：
+##### [书籍](https://www.douban.com/people/100617219/)：
 1. 统计学习方法、集体智慧编程、利用python进行数据分析、机器学习实战、机器学习西瓜书、Spark MLlib 机器学习
 2. 自然语言处理、计算广告、推荐系统、计算机视觉、大数据应用实践
 
-#####课程：
+##### 课程：
 1. [Coursera Ng大牛的课程](https://www.coursera.org/learn/machine-learning)
 2. [小象学院邹博老师的课程](http://www.chinahadoop.cn/classroom/23/courses)
 
-###深度学习相关
-#####网站：
+### 深度学习相关
+##### 网站：
 1. [deeplearning.net](http://deeplearning.net/) 收藏夹必备，paper指南
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 3. [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
-#####书籍：
+##### 书籍：
 1. [DeepLearningBook](http://www.deeplearningbook.org/) 亚马逊预售12月出，等不及花40元打
 
-#####课程：
+##### 课程：
 1. [优达学城的deep-learning免费课程](https://cn.udacity.com/course/deep-learning--ud730)
 2. [深度学习2016暑假课程有PPT无字幕](http://videolectures.net/deeplearning2016_montreal/)
 3. [周莫烦的录制视频Youtebe和优酷均有](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
@@ -129,7 +129,7 @@ TODO:
 
 ***
 
-##四、记录开发机
+## 四、记录开发机
 
 1. 自己的 MacBook Pro 一训练数据CPU升到200%~300~就开始发热，甚至风扇开始转；
 
@@ -147,7 +147,7 @@ TODO:
 
 ***
 
-##五、记录集群部署
+## 五、记录集群部署
 
 1. [Spark集群部署](https://zhuanlan.zhihu.com/p/23689558)  
 
@@ -159,7 +159,7 @@ TODO:
 
 ***
 
-##六、项目demo
+## 六、项目demo
 
 1. IMAGE相关：  
     1.1 图像风格转换neural-style [anishathalye/neural-style](https://github.com/anishathalye/neural-style)  
@@ -185,7 +185,7 @@ TODO:
 
 ***
 
-##七、调参trick
+## 七、调参trick
 
 1. [Theano调试技巧](https://zhuanlan.zhihu.com/p/24857032)
 
